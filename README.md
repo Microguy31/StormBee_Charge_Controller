@@ -86,7 +86,8 @@ stormbee/bms/cells
 
 ### **Subscribed commands:**
 
-stormbee/charge/set_power
+stormbee/charge/set_power  ON/OFF
+stormbee/charge/set_limit  0 to 100
 
 ## 🔧 First-time Setup
 
